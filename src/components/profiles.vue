@@ -119,6 +119,9 @@
 										<div class="profile-txt">
 											<a href=""><i class="flaticon-bitbucket-logotype-camera-lens-in-perspective"></i></a>
 											<div class="profile-icon-name">bitBucket</div>
+											<h1>gogogog</h1>
+											<h2>dhdhdh</h2>
+											<h3>ffff</h3>
 										</div>
 									</div>
 								</div>
